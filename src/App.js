@@ -1,10 +1,11 @@
-import {useState} from "react"
 import './App.css';
+import {useState} from "react"
+
 import {names} from "./names"
 import NameCard from"./components/NameCard";
 
 function App() {
-  const [namesList, setNamesList] =useState(names)
+  const [namesList, setNamesList] = useState (names)
   return (
     <div className = "App">
       <div className ="container">
