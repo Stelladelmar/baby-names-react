@@ -1,8 +1,12 @@
+
+body {
+  background-color: lightslategray;
+}
 .m {
   color: blue;
   background-color: aqua;
 }
-.f{
+.f {
   color:red;
   background-color: pink;
 }
@@ -30,5 +34,7 @@
   width:100%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 
 }
