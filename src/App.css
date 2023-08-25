@@ -1,6 +1,6 @@
 
 body {
-  background-color: lightslategray;
+  background-image: url(https://images.unsplash.com/photo-1519405474421-f6a5fae2db20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80);
 }
 .m {
   color: blue;
@@ -10,7 +10,11 @@ body {
   color:red;
   background-color: pink;
 }
+.other {
+  color: white;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, #d2d20f, #eb9c0b, red);
 
+}
 .card{
   display: flex;
   border-radius: 2rem;
@@ -37,4 +41,18 @@ body {
   justify-content: center;
   align-items: center;
 
+}
+.search-container{
+border-radius: 1rem;
+margin-bottom: 1rem;
+margin-top: 0.5rem;
+
+}
+.search-input{
+  background-color: #E6E6FA;
+  color: purple;
+  border-start-start-radius: 1rem;
+  border-end-end-radius: 1rem;
+  padding: 2rem;
+  font-size: 100%;
 }

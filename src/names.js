@@ -442,7 +442,7 @@ export const names= [
     {
       "id": 92,
       "name": "Wira",
-      "sex": "m"
+      "sex": "other"
     },
     {
       "id": 93,
@@ -482,7 +482,7 @@ export const names= [
     {
       "id": 102,
       "name": "Alysia",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 104,
@@ -572,7 +572,7 @@ export const names= [
     {
       "id": 124,
       "name": "Malikah",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 125,
@@ -592,12 +592,12 @@ export const names= [
     {
       "id": 128,
       "name": "Blenda",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 129,
       "name": "Kasandra",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 130,
@@ -622,7 +622,7 @@ export const names= [
     {
       "id": 134,
       "name": "Leon",
-      "sex": "m"
+      "sex": "other"
     },
     {
       "id": 135,
@@ -737,7 +737,7 @@ export const names= [
     {
       "id": 160,
       "name": "Jina",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 163,
@@ -797,7 +797,7 @@ export const names= [
     {
       "id": 174,
       "name": "Marica",
-      "sex": "f"
+      "sex": "other"
     },
     {
       "id": 175,
@@ -842,7 +842,7 @@ export const names= [
     {
       "id": 184,
       "name": "Temür",
-      "sex": "m"
+      "sex": "other"
     },
     {
       "id": 185,
