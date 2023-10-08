@@ -9,7 +9,9 @@ import SearchInput from "./components/SearchInput";
 function App() {
   const [namesList, setNamesList] = useState(names)
   const [searchInput, setSearchInput] = useState ("")
-  
+  const [favourites, setFavourites] = useState([]);
+
+
   const handleSearch = (searchQuery) => {
     setSearchInput(searchQuery)
     const babyFilter = names.filter((baby) => {
